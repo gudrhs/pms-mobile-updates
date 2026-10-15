@@ -1,0 +1,9 @@
+{
+  "versionCode": 78,
+  "versionName": "2.22.2",
+  "packageName": "com.sanhait.pmsmobile",
+  "channel": "internal-test",
+  "apkUrl": "https://raw.githubusercontent.com/gudrhs/pms-mobile-updates/main/PMS-Mobile-debug.apk",
+  "sha256": "8052236b8c98a28ec9c47749ebc1ffc6119c8e10b9795d152d0447811ceb6e88",
+  "notes": "- 업데이트 받는 곳을 바꿈: 이번 한 번은 카톡으로 받은 파일로 설치, 다음부터는 ⋮ → 업데이트 확인으로 받음\n- 행사 알림: ⋮ → 행사 알림에서 부서를 고르면 매일 아침 8시쯤 오늘·내일 행사를 알려 줌\n- 조회 조건: 휴대전화 칸을 눌러도 고객명 칸에 글자가 들어가던 문제 고침\n- Daily Manager Report: 업장별 매출 올해·작년 막대그래프"
+}
