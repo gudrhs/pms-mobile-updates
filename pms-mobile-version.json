@@ -1,9 +1,9 @@
 {
-  "versionCode": 81,
-  "versionName": "2.23.0",
+  "versionCode": 82,
+  "versionName": "2.24.0",
   "packageName": "com.sanhait.pmsmobile",
   "channel": "internal-test",
   "apkUrl": "https://raw.githubusercontent.com/gudrhs/pms-mobile-updates/main/PMS-Mobile-debug.apk",
-  "sha256": "f7fc5662adf730e7f959055ca2b59308ce058e53a6b99dbce17540895896b907",
-  "notes": "- 부서별 할 일: 줄마다 날짜 표시, 시각 굵게, '(금액 생략)' 같은 자국과 같은 줄 반복 정리\n- 연회 세팅: 큰 글씨로 보인 레이아웃 줄은 다시 쓰지 않음\n- 취소 통보가 온 행사는 '취소'로 표시하고 부서별 할 일·행사 알림에서 뺌\n- 마지막으로 본 부서를 기억해 다음에 열면 바로 보여 줌"
+  "sha256": "aa44c3aacfcf3d5304db68abdb3394606824d52291b4369428f899f72c6bbe01",
+  "notes": "- 빨라짐: 메뉴 결과가 PMS 응답 즉시 표시 (Reservation List 약 1.6초, 결과 0건 화면 9초→1초), 다시 연 메뉴는 지난 결과를 먼저 보여 줌\n- 하얀 화면 해결: 연결 중에는 \"PMS에 연결하는 중\"과 다시 시도 버튼, 화면 엔진이 꺼져도 자동으로 다시 엶\n- 메뉴 검색: 이름이 맞는 메뉴가 먼저, 초성(ㅇㅇㅁㄹ)·띄어쓰기 없이·여러 낱말로도 찾음 / 조건: 날짜 빠른 선택, 고객명·검색 칸을 앞에\n- 결과 카드: 입실→퇴실·박 한 줄, 객실 타입·인원 먼저, 정렬 버튼 / 결과 검색: 여러 낱말·초성·화면 날짜·금액 모양"
 }
