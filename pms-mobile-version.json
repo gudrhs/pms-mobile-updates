@@ -1,9 +1,9 @@
 {
-  "versionCode": 80,
-  "versionName": "2.22.4",
+  "versionCode": 81,
+  "versionName": "2.23.0",
   "packageName": "com.sanhait.pmsmobile",
   "channel": "internal-test",
   "apkUrl": "https://raw.githubusercontent.com/gudrhs/pms-mobile-updates/main/PMS-Mobile-debug.apk",
-  "sha256": "15b37d42a47ae6291e553d722e523b02e206c7917c2b01ca36d6e950d926e650",
-  "notes": "- 보안: 앱 화면 캡처·녹화·화면 공유 차단 (최근 앱 목록에서도 화면이 가려짐)\n- 이벤트 오더 열람 요청에 WINGS 로그인 계정이 함께 기록됨 (관리자가 누가 요청했는지 확인)\n- 자동 업데이트: 앱을 열면 새 버전을 스스로 받아 설치\n- 자동 업데이트: 앱을 열면 새 버전을 스스로 받아 설치 (처음 한 번만 설치 허용을 묻고, 그다음부터는 묻지 않음)"
+  "sha256": "f7fc5662adf730e7f959055ca2b59308ce058e53a6b99dbce17540895896b907",
+  "notes": "- 부서별 할 일: 줄마다 날짜 표시, 시각 굵게, '(금액 생략)' 같은 자국과 같은 줄 반복 정리\n- 연회 세팅: 큰 글씨로 보인 레이아웃 줄은 다시 쓰지 않음\n- 취소 통보가 온 행사는 '취소'로 표시하고 부서별 할 일·행사 알림에서 뺌\n- 마지막으로 본 부서를 기억해 다음에 열면 바로 보여 줌"
 }
