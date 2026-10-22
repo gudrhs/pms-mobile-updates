@@ -1,9 +1,9 @@
 {
-  "versionCode": 83,
-  "versionName": "2.25.0",
+  "versionCode": 84,
+  "versionName": "2.26.0",
   "packageName": "com.sanhait.pmsmobile",
   "channel": "internal-test",
   "apkUrl": "https://raw.githubusercontent.com/gudrhs/pms-mobile-updates/main/PMS-Mobile-debug.apk",
-  "sha256": "dcdf155a595c3113fccb30bf4f25c7d276caa6851f972bdb98dedcac213a0f7b",
-  "notes": "- 홈에서 고객 찾기: 이름·예약 번호를 치면 WINGS 첫 화면처럼 예약이 바로 나옴 (2글자부터)\n- 결과를 누르면 예약 현황: 입실→퇴실·박, 휴대폰(누르면 전화)·예약자, 인원·객실·요금·결제, 메모 (조회 전용)\n- 홈 오늘 객실: 점유율·ADR·객실 매출과 입실·퇴실·연박·공실 숫자, 자세히 보기로 객실 상태·정비 현황\n- 객실 예측 10일 막대(요일·주말 색, 누르면 그날 판매·ADR·매출)와 오늘 행사 시간표"
+  "sha256": "e5bc4af39125d3a3d73b359fd1ecf47ca7fbef0affefe79fab75cd95ceb68350",
+  "notes": "- 피렌체 식수: 날짜별 조식·중식·석식 인원 (홈 → 피렌체 식수), 200·300·400명 넘으면 색으로 표시\n- 조식은 단체 오더 + 개인 예약 조식 합계, 아래에 '단체 n · 개인 m' (개인은 WINGS 패키지 조식·조식할인·소아조식·조식COMP, 숙박 다음 날 아침)\n- 날짜를 누르면 행사별 인원·시간과 개인 예약 내역, 지난 30일은 POS 인원과 함께 (같은 요일만 보기)\n- 특이사항 알림(⋮ 메뉴에서 켜기): 단체 오더 인원이 200·300·400명을 넘거나 50명 이상 바뀌거나 오늘·내일이 바뀌면 알림"
 }
