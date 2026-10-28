@@ -1,9 +1,9 @@
 {
-  "versionCode": 84,
-  "versionName": "2.26.0",
+  "versionCode": 85,
+  "versionName": "2.27.0",
   "packageName": "com.sanhait.pmsmobile",
   "channel": "internal-test",
   "apkUrl": "https://raw.githubusercontent.com/gudrhs/pms-mobile-updates/main/PMS-Mobile-debug.apk",
-  "sha256": "e5bc4af39125d3a3d73b359fd1ecf47ca7fbef0affefe79fab75cd95ceb68350",
-  "notes": "- 피렌체 식수: 날짜별 조식·중식·석식 인원 (홈 → 피렌체 식수), 200·300·400명 넘으면 색으로 표시\n- 조식은 단체 오더 + 개인 예약 조식 합계, 아래에 '단체 n · 개인 m' (개인은 WINGS 패키지 조식·조식할인·소아조식·조식COMP, 숙박 다음 날 아침)\n- 날짜를 누르면 행사별 인원·시간과 개인 예약 내역, 지난 30일은 POS 인원과 함께 (같은 요일만 보기)\n- 특이사항 알림(⋮ 메뉴에서 켜기): 단체 오더 인원이 200·300·400명을 넘거나 50명 이상 바뀌거나 오늘·내일이 바뀌면 알림"
+  "sha256": "4645a8c98380fe65dca5f6acb448b5c9a3cda8c59b309d314ce81e5cffd1869f",
+  "notes": "- 피렌체 조식을 이벤트 오더와 WINGS 단체 예약으로 맞춰 봄: 오더 인원이 빈 단체는 WINGS 인원으로 채움(파란 글씨)\n- 오더 없이 WINGS 단체 예약에만 조식이 있는 단체도 합계에 넣음 ('단체(예약만)')\n- 오더와 WINGS 숫자가 다르거나 오더 입력이 이상하면(끼니·시각, 요일, 1~2명) 주황 '확인 n', 누르면 이유\n- 날짜를 누르면 오더 줄마다 'WINGS 단체 예약과 같음 / 다름 / 채움' 표시"
 }
