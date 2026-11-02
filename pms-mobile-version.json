@@ -1,9 +1,9 @@
 {
-  "versionCode": 85,
-  "versionName": "2.27.0",
+  "versionCode": 86,
+  "versionName": "2.28.0",
   "packageName": "com.sanhait.pmsmobile",
   "channel": "internal-test",
   "apkUrl": "https://raw.githubusercontent.com/gudrhs/pms-mobile-updates/main/PMS-Mobile-debug.apk",
-  "sha256": "4645a8c98380fe65dca5f6acb448b5c9a3cda8c59b309d314ce81e5cffd1869f",
-  "notes": "- 피렌체 조식을 이벤트 오더와 WINGS 단체 예약으로 맞춰 봄: 오더 인원이 빈 단체는 WINGS 인원으로 채움(파란 글씨)\n- 오더 없이 WINGS 단체 예약에만 조식이 있는 단체도 합계에 넣음 ('단체(예약만)')\n- 오더와 WINGS 숫자가 다르거나 오더 입력이 이상하면(끼니·시각, 요일, 1~2명) 주황 '확인 n', 누르면 이유\n- 날짜를 누르면 오더 줄마다 'WINGS 단체 예약과 같음 / 다름 / 채움' 표시"
+  "sha256": "12cbcc33974205410be1207877a9ff44850d2019ae8a68d1e1e92956fcabe941",
+  "notes": "- 이벤트 오더를 올릴 때 일정표·식음료 칸·조식 쿠폰을 맞춰 보고 다른 곳을 '확인 필요'로 표시 (오더 화면·피렌체 식수)\n- 식수 숫자는 식음료 칸을 먼저 씀 (COMP·소인 더함), 연회장 식사는 '연회'로 따로, 날짜마다 하루 합계(피렌체·연회·전체)\n- Sales On The Book: 날마다·당일·남은 기간·월 합계를 FIT / 그룹으로 나눠 보기 (WINGS 숫자 그대로)\n- 홈 객실 예측(날짜 누르면)과 Daily On The Book 에 FIT·그룹 객실"
 }
