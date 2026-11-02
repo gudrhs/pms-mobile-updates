@@ -1,9 +1,9 @@
 {
-  "versionCode": 86,
-  "versionName": "2.28.0",
+  "versionCode": 87,
+  "versionName": "2.28.1",
   "packageName": "com.sanhait.pmsmobile",
   "channel": "internal-test",
   "apkUrl": "https://raw.githubusercontent.com/gudrhs/pms-mobile-updates/main/PMS-Mobile-debug.apk",
-  "sha256": "12cbcc33974205410be1207877a9ff44850d2019ae8a68d1e1e92956fcabe941",
-  "notes": "- 이벤트 오더를 올릴 때 일정표·식음료 칸·조식 쿠폰을 맞춰 보고 다른 곳을 '확인 필요'로 표시 (오더 화면·피렌체 식수)\n- 식수 숫자는 식음료 칸을 먼저 씀 (COMP·소인 더함), 연회장 식사는 '연회'로 따로, 날짜마다 하루 합계(피렌체·연회·전체)\n- Sales On The Book: 날마다·당일·남은 기간·월 합계를 FIT / 그룹으로 나눠 보기 (WINGS 숫자 그대로)\n- 홈 객실 예측(날짜 누르면)과 Daily On The Book 에 FIT·그룹 객실"
+  "sha256": "547a57ec3efad8f81fe6f082ed0941af89d293552d52f0d5eaa0e0bd8928dc00",
+  "notes": "- 이벤트 오더를 올릴 때 일정표·식음료 칸·조식 쿠폰을 맞춰 보고 다른 곳을 '확인 필요'로 표시 (오더 화면·피렌체 식수)\n- 식수 숫자는 식음료 칸을 먼저 씀 (COMP·소인 더함), 연회장 식사는 '연회'로 따로, 날짜마다 하루 합계(피렌체·연회·전체)\n- Sales On The Book: 날마다·당일·남은 기간·월 합계를 FIT / 그룹으로 나눠 보기 (WINGS 숫자 그대로)\n- 홈 객실 예측(날짜 누르면)과 Daily On The Book 에 FIT·그룹 객실 (Daily On The Book 칸이 비어 보이던 것 고침)"
 }
