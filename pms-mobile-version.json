@@ -1,9 +1,9 @@
 {
-  "versionCode": 87,
-  "versionName": "2.28.1",
+  "versionCode": 88,
+  "versionName": "2.29.0",
   "packageName": "com.sanhait.pmsmobile",
   "channel": "internal-test",
   "apkUrl": "https://raw.githubusercontent.com/gudrhs/pms-mobile-updates/main/PMS-Mobile-debug.apk",
-  "sha256": "547a57ec3efad8f81fe6f082ed0941af89d293552d52f0d5eaa0e0bd8928dc00",
-  "notes": "- 이벤트 오더를 올릴 때 일정표·식음료 칸·조식 쿠폰을 맞춰 보고 다른 곳을 '확인 필요'로 표시 (오더 화면·피렌체 식수)\n- 식수 숫자는 식음료 칸을 먼저 씀 (COMP·소인 더함), 연회장 식사는 '연회'로 따로, 날짜마다 하루 합계(피렌체·연회·전체)\n- Sales On The Book: 날마다·당일·남은 기간·월 합계를 FIT / 그룹으로 나눠 보기 (WINGS 숫자 그대로)\n- 홈 객실 예측(날짜 누르면)과 Daily On The Book 에 FIT·그룹 객실 (Daily On The Book 칸이 비어 보이던 것 고침)"
+  "sha256": "339cdac805f88021ee97133fa37893a4a91d1bc748e5342efe72e160cf775c64",
+  "notes": "- 화면 설명 문구를 짧게 다듬음\n- 내부 계산 정확도 개선\n- 이벤트 오더를 올릴 때 일정표·식음료 칸·조식 쿠폰을 맞춰 보고 다른 곳을 '확인 필요'로 표시 (오더 화면·피렌체 식수)\n- 식수 숫자는 식음료 칸을 먼저 씀 (COMP·소인 더함), 연회장 식사는 '연회'로 따로, 날짜마다 하루 합계(피렌체·연회·전체)"
 }
