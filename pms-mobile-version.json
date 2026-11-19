@@ -1,9 +1,9 @@
 {
-  "versionCode": 90,
-  "versionName": "2.31.0",
+  "versionCode": 92,
+  "versionName": "2.32.0",
   "packageName": "com.sanhait.pmsmobile",
   "channel": "internal-test",
   "apkUrl": "https://raw.githubusercontent.com/gudrhs/pms-mobile-updates/main/PMS-Mobile-debug.apk",
-  "sha256": "6ee1e14ca10f0d9d6924ac7c399aa2e07501940947d2addbdf76111fc6f8169e",
-  "notes": "- WINGS 조회가 일부 실패하면 다시 묻고, 로그인이 끊기면 알려 줌\n- 내부 계산 정확도 개선\n- 내부 계산 정확도 개선\n- 화면 설명 문구를 짧게 다듬음"
+  "sha256": "7ca0294e04cf3dfaf666e013ae36474eab3e320f7a342f16e1ac966a8e48a6c7",
+  "notes": "- 내 부서 고르기: 홈 맨 위 '첫 화면'(또는 ⋮ 메뉴)에서 부서를 고르면 그 부서가 매일 쓰는 것만 크게 보임\n- 프론트 첫 화면: 오늘 도착 예정·도착 완료·출발 예정·투숙 예상을 큰 숫자로, 누르면 바로 명단\n- 프론트: 객실 번호·이름으로 투숙객 찾기, 객실 현황판·체크인 바로 가기, 오늘 행사\n- 하우스키핑·예약실·회계 첫 화면은 다음 업데이트에 차례로 나옵니다"
 }
